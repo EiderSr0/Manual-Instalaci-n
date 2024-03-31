@@ -1,0 +1,46 @@
+.containeMax{
+  display: flex;
+  
+}
+
+
+.containerform{
+  display: flex;
+ flex: 1;
+ 
+ justify-content: center;
+}
+.formMakeobserver{
+  display: flex;
+  flex-direction: column; 
+  width:80%;
+  margin: 0%;
+  padding: 40px;
+  margin: 10px;
+
+ 
+}
+
+input[type="file"] {
+  color:transparent;
+  
+}
+.file-selected {
+  background-color: rgb(232, 238, 144); /* Cambia este color según tus preferencias */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

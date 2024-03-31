@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap%27');
+
+.bodyStudentSchedule{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(120deg, rgba(25, 243, 109, 0.364) 0%, rgba(143, 162, 244, 0.398) 100%), url(../images/fondo2.avif);
+    font-family: 'Poppins', sans-serif;
+  }
+
+#container_Schedule{
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.tabla-curso{    
+    background-color: rgba(33, 37, 41, 0.884);
+    border-radius: 5px;
+}
+
+#tl-tabla-curso{
+    background-color: rgb(107, 208, 226, 0.884);
+    padding: 2%;
+    color: white;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+  
+}
+
+#info-curso{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+
+}
+
+#img-curso{
+    width: 80%;
+    margin: auto;
+}

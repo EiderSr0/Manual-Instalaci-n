@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap%27');
+#contenedor-wrap {
+    display: flex;
+  }
+
+#h_schedule {
+    text-align: center;
+    margin-left: 38%;
+    margin-bottom: 10%;
+   
+}
+
+
+.images {
+    width: 100%;
+    margin-left: 15%;
+}
+.responsive-col {
+    margin-top: -10%;
+  }
+  
+  /* Media query para dispositivos más pequeños */
+  @media (max-width: 430px) {
+    .responsive-col {
+      margin-top: -140%;
+    }
+  }
